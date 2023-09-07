@@ -200,7 +200,7 @@ aside{
 }
 main{
     width: 93.70%;
-    margin: -100px auto 250px
+    margin: -100px auto;
 }
 .special  span{
     font-family: 'Nunito', sans-serif;
@@ -224,7 +224,7 @@ main{
     margin-top: 50px;
 }
 .special .category-special .special-block{
-    width: 411px;
+    width: 32%;
     height: 328px;
     padding: 32px 110px 251px 40px;
     border-radius: 16px;
@@ -238,10 +238,10 @@ main{
     color: #313131;
 }
 .special .category-special .spb1{
-    width: 737px;
+    width: 60%;
 }
 .special .category-special .spb2{
-    width: 519px;
+    width: 38%;
 }
 @media screen and (max-width:1280px){
     .special .category-special .spb1, 
